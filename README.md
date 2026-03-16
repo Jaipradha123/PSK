@@ -105,7 +105,7 @@ for i in range(len(symbols)):
 
 # Plot
 plt.figure(figsize=(10,8))
-plt.suptitle("NAME : TANUJA S \nREG NO : 212224060277",
+plt.suptitle("NAME : JAI PRADHA M \nREG NO : 212223060096",
              fontsize=12, fontweight='bold')
 
 plt.subplot(3,1,1)
